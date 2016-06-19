@@ -11,7 +11,7 @@ import gnu.io.SerialPortEventListener;
 
 /**
  *
- * @author politecnico
+ *  @author Un Hee Schiefelbein
  */
 public class Calculo {
 
