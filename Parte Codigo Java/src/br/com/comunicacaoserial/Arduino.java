@@ -4,7 +4,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author politecnico
+ *  @author Un Hee Schiefelbein
  */
 public class Arduino {
 
